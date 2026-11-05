@@ -1,0 +1,84 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "OracleHelper",
+  "sourceName": "contracts/utils/OracleHelper.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "currentPrice",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "previousPrice",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "cachedPriceTimestamp",
+          "type": "uint256"
+        }
+      ],
+      "name": "TokenPriceUpdated",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "cachedPrice",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "cachedPriceTimestamp",
+      "outputs": [
+        {
+          "internalType": "uint48",
+          "name": "",
+          "type": "uint48"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "bool",
+          "name": "force",
+          "type": "bool"
+        }
+      ],
+      "name": "updateCachedPrice",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/utils/OracleHelper.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

@@ -1,0 +1,79 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "IAccountExecute",
+  "sourceName": "contracts/interfaces/IAccountExecute.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "components": [
+            {
+              "internalType": "address",
+              "name": "sender",
+              "type": "address"
+            },
+            {
+              "internalType": "uint256",
+              "name": "nonce",
+              "type": "uint256"
+            },
+            {
+              "internalType": "bytes",
+              "name": "initCode",
+              "type": "bytes"
+            },
+            {
+              "internalType": "bytes",
+              "name": "callData",
+              "type": "bytes"
+            },
+            {
+              "internalType": "bytes32",
+              "name": "accountGasLimits",
+              "type": "bytes32"
+            },
+            {
+              "internalType": "uint256",
+              "name": "preVerificationGas",
+              "type": "uint256"
+            },
+            {
+              "internalType": "bytes32",
+              "name": "gasFees",
+              "type": "bytes32"
+            },
+            {
+              "internalType": "bytes",
+              "name": "paymasterAndData",
+              "type": "bytes"
+            },
+            {
+              "internalType": "bytes",
+              "name": "signature",
+              "type": "bytes"
+            }
+          ],
+          "internalType": "struct PackedUserOperation",
+          "name": "userOp",
+          "type": "tuple"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "userOpHash",
+          "type": "bytes32"
+        }
+      ],
+      "name": "executeUserOp",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/interfaces/IAccountExecute.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

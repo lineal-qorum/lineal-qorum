@@ -1,0 +1,51 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "INonceManager",
+  "sourceName": "contracts/interfaces/INonceManager.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "sender",
+          "type": "address"
+        },
+        {
+          "internalType": "uint192",
+          "name": "key",
+          "type": "uint192"
+        }
+      ],
+      "name": "getNonce",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "nonce",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint192",
+          "name": "key",
+          "type": "uint192"
+        }
+      ],
+      "name": "incrementNonce",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/interfaces/INonceManager.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

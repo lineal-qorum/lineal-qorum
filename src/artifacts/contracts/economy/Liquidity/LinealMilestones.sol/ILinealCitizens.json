@@ -1,0 +1,46 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "ILinealCitizens",
+  "sourceName": "contracts/economy/Liquidity/LinealMilestones.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "tokenCounter",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "wallet",
+          "type": "address"
+        }
+      ],
+      "name": "walletToToken",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/economy/Liquidity/LinealMilestones.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

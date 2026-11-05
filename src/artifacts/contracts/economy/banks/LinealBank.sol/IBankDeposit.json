@@ -1,0 +1,56 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "IBankDeposit",
+  "sourceName": "contracts/economy/banks/LinealBank.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "accountId",
+          "type": "bytes32"
+        },
+        {
+          "internalType": "address",
+          "name": "token",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "deposit",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "token",
+          "type": "address"
+        }
+      ],
+      "name": "isTokenSupported",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/economy/banks/LinealBank.sol",
+  "buildInfoId": "solc-0_8_30-b73ac9a58ade07a2c2350b353bc834d4db3bf78e"
+}

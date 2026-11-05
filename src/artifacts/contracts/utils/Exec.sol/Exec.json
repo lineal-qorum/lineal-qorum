@@ -1,0 +1,13 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "Exec",
+  "sourceName": "contracts/utils/Exec.sol",
+  "abi": [],
+  "bytecode": "0x6080806040523460175760399081601c823930815050f35b5f80fdfe5f80fdfea2646970667358221220939c99d8cd35d2b08ae5ab24bc3783c963aa8f76aa8949d26a9a54a382671f9164736f6c634300081e0033",
+  "deployedBytecode": "0x5f80fdfea2646970667358221220939c99d8cd35d2b08ae5ab24bc3783c963aa8f76aa8949d26a9a54a382671f9164736f6c634300081e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/utils/Exec.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

@@ -1,0 +1,27 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "ILinealBank",
+  "sourceName": "contracts/economy/banks/LinealTransaction.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "txId",
+          "type": "bytes32"
+        }
+      ],
+      "name": "executeTransactionRelease",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/economy/banks/LinealTransaction.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

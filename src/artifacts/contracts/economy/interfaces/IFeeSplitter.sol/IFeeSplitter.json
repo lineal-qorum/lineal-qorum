@@ -1,0 +1,40 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "IFeeSplitter",
+  "sourceName": "contracts/economy/interfaces/IFeeSplitter.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "collectAndRouteFees",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_sender",
+          "type": "address"
+        }
+      ],
+      "name": "grantProductSenderRole",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/economy/interfaces/IFeeSplitter.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}

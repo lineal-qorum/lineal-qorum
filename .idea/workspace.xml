@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c8e7ed3-5d24-4b32-8fe6-575f661e59cd" name="Changes" comment="Add Readme">
+      <change afterPath="$PROJECT_DIR$/src/artifacts/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-b464f504f4b1c48df45e07e13d1ef141ef9084af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-b464f504f4b1c48df45e07e13d1ef141ef9084af.output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-b73ac9a58ade07a2c2350b353bc834d4db3bf78e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-b73ac9a58ade07a2c2350b353bc834d4db3bf78e.output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532.output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-f28a5ab4f364ed47b3dc9ae114fb7d542c27422d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/build-info/solc-0_8_30-f28a5ab4f364ed47b3dc9ae114fb7d542c27422d.output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/Counter.sol/Counter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/Counter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/BaseAccount.sol/BaseAccount.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/BaseAccount.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/BasePaymaster.sol/BasePaymaster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/BasePaymaster.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/EntryPoint.sol/EntryPoint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/EntryPoint.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/EntryPointSimulations.sol/EntryPointSimulations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/EntryPointSimulations.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/GenesisVerifier.sol/Groth16Verifier.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/GenesisVerifier.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/Groth16Verifier.sol/Groth16Verifier.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/Groth16Verifier.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/Helpers.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/LinealDeployer.sol/LinealDeployer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/LinealDeployer.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/NonceManager.sol/NonceManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/NonceManager.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/SenderCreator.sol/SenderCreator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/SenderCreator.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/StakeManager.sol/StakeManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/StakeManager.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/UserOperationLib.sol/UserOperationLib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/core/UserOperationLib.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealDex.sol/LinealDex.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealDex.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealLiquidity.sol/LinealLiquidity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealLiquidity.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealMilestones.sol/ILinealCitizens.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealMilestones.sol/LinealMilestones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealMilestones.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealSeed.sol/LinealSeed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/Liquidity/LinealSeed.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/LinealAccount.sol/LinealAccount.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/LinealAccount.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/LinealAccountFactory.sol/LinealAccountFactory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/LinealAccountFactory.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/callback/TokenCallbackHandler.sol/TokenCallbackHandler.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/accounts/callback/TokenCallbackHandler.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/IBankDeposit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/ICitizensAccounts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/IInstitutionIdentity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/ILinealTransactions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/LinealBank.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealBank.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealQantum.sol/LinealQantum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealQantum.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealTransaction.sol/ILinealBank.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealTransaction.sol/LinealTransactions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/banks/LinealTransaction.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/ICLPStablecoin.sol/ICLPStablecoin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/ICLPStablecoin.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IDEXRouter.sol/IDEXRouter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IDEXRouter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IFeeSplitter.sol/IFeeSplitter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IFeeSplitter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IIncomeToken.sol/IIncomeToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IIncomeToken.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/ILinealIdentity.sol/ILinealIdentity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/ILinealIdentity.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IMetricsAdapter.sol/IMetricsAdapter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IMetricsAdapter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IQorumsToken.sol/IQorumsToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/interfaces/IQorumsToken.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/paymasters/LinealPaymaster.sol/LinealPaymaster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/paymasters/LinealPaymaster.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/paymasters/LinealRouter.sol/LinealRouter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/paymasters/LinealRouter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/token/LinealToken.sol/LinealToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/economy/token/LinealToken.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/governance/LinealQantum.sol/LinealQantum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/governance/LinealQantum.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/governance/LinealQorum.sol/LinealQorum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/governance/LinealQorum.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealCitizens.sol/LinealCitizens.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealCitizens.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealInstitution.sol/LinealInstitution.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealInstitution.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealTender.sol/LinealTender.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/institution/LinealTender.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAccount.sol/IAccount.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAccount.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAccountExecute.sol/IAccountExecute.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAccountExecute.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAggregator.sol/IAggregator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IAggregator.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IEntryPoint.sol/IEntryPoint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IEntryPoint.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IEntryPointSimulations.sol/IEntryPointSimulations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IEntryPointSimulations.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IMetricsAdapter.sol/IMetricsAdapter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IMetricsAdapter.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/INonceManager.sol/INonceManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/INonceManager.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IPaymaster.sol/IPaymaster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IPaymaster.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IQorumsToken.sol/IQorumsToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IQorumsToken.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IStakeManager.sol/IStakeManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/IStakeManager.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/interfaces/PackedUserOperation.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/kernel/LinealEconomy.sol/LinealEconomicKernel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/kernel/LinealEconomy.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/social/LinealStorage.sol/PostBoard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/social/LinealStorage.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/test.sol/LinealSecureStorage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/test.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/Exec.sol/Exec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/Exec.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/IOracle.sol/IOracle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/IOracle.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/OracleHelper.sol/OracleHelper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/OracleHelper.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/UniswapHelper.sol/UniswapHelper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artifacts/contracts/utils/UniswapHelper.sol/artifacts.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/contracts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/wallet.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/dex.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-bank.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-citizens.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-institution.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-liquidity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-milestones.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/lineal-tenders.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typescipt/wallet.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cd758bad-3e85-4190-ac8e-6191f633fa0c" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Lfn5TaPgOcdCwUHzJUgNU8kSpX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "E:/linealqorum/diggi-dapp-app/linealqorumfinternet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\linealqorum\diggi-dapp-app\linealqorumfinternet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\linealqorum\diggi-dapp-app\linealqorumfinternet" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8e7ed3-5d24-4b32-8fe6-575f661e59cd" name="Changes" comment="" />
+      <created>1793853807219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793853807219</updated>
+      <workItem from="1793853808234" duration="3914000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793854294758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793854294758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793854355204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793854355204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793854759696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793854759696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793854807835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793854807835</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793855127840</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1793855127840</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793855221027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1793855221027</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793855297710</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1793855297710</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Readme">
+      <option name="closed" value="true" />
+      <created>1793855566687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1793855566687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/types/index.js" />
+        <option value="$PROJECT_DIR$/src/types/wallet.js" />
+        <option value="$PROJECT_DIR$/src/types/index.d.ts" />
+        <option value="$PROJECT_DIR$/src/types/wallet.d.ts" />
+        <option value="$PROJECT_DIR$/src/types/index.js.map" />
+        <option value="$PROJECT_DIR$/src/types/wallet.js.map" />
+        <option value="$PROJECT_DIR$/src/typescipt/index.js" />
+        <option value="$PROJECT_DIR$/src/typescipt/config.js" />
+        <option value="$PROJECT_DIR$/src/typescipt/config.d.ts" />
+        <option value="$PROJECT_DIR$/src/typescipt/config.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Readme" />
+  </component>
+</project>

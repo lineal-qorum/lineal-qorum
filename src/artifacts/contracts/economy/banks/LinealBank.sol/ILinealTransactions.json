@@ -1,0 +1,53 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "ILinealTransactions",
+  "sourceName": "contracts/economy/banks/LinealBank.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "txId",
+          "type": "bytes32"
+        }
+      ],
+      "name": "getTransactionForBank",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "to",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "token",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "internalType": "bool",
+          "name": "executed",
+          "type": "bool"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "fromAccount",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/economy/banks/LinealBank.sol",
+  "buildInfoId": "solc-0_8_30-b73ac9a58ade07a2c2350b353bc834d4db3bf78e"
+}

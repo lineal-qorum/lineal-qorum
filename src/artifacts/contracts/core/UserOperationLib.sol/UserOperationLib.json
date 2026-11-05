@@ -1,0 +1,53 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "UserOperationLib",
+  "sourceName": "contracts/core/UserOperationLib.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "PAYMASTER_DATA_OFFSET",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "PAYMASTER_POSTOP_GAS_OFFSET",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "PAYMASTER_VALIDATION_GAS_OFFSET",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080806040523460175760b09081601c823930815050f35b5f80fdfe60808060405260043610156011575f80fd5b5f3560e01c90816325093e1b14606757508063b29a8ff41460525763ede31502146039575f80fd5b5f366003190112604e57602060405160348152f35b5f80fd5b5f366003190112604e57602060405160148152f35b5f366003190112604e5780602460209252f3fea26469706673582212209a854dcf77a3934feae2666d12277cc34610cb27440763dd1536e60d36e4f7a464736f6c634300081e0033",
+  "deployedBytecode": "0x60808060405260043610156011575f80fd5b5f3560e01c90816325093e1b14606757508063b29a8ff41460525763ede31502146039575f80fd5b5f366003190112604e57602060405160348152f35b5f80fd5b5f366003190112604e57602060405160148152f35b5f366003190112604e5780602460209252f3fea26469706673582212209a854dcf77a3934feae2666d12277cc34610cb27440763dd1536e60d36e4f7a464736f6c634300081e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/core/UserOperationLib.sol",
+  "buildInfoId": "solc-0_8_30-e703f2fe389268a2246aec69fef2175182b7b532"
+}
