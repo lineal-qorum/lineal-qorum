@@ -505,3 +505,5 @@ error InvalidAddress();
 error EmptyTitle();
 error TitleTooLong();              // MAX_TITLE_LENGTH = 100 bytes
 ```
+
+### <i>  Low Life, High Tech
