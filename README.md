@@ -12,7 +12,7 @@ Esta obra se encuentra protegida por la Ley N° 17.336 sobre Propiedad Intelectu
 
 ## Prólogo
 
-Lineal Qorum Finternet es un core financiero cuyo propósito es **proteger la soberanía de los activos digitales de las personas**.
+Lineal Qorum Finternet es un protocolo de internet enfocado en las finanzas, posee un core financiero cuyo propósito es **proteger la soberanía de los activos digitales de las personas**.
 
 Hoy el acceso al dinero y a la identidad depende de intermediarios que pueden congelar, perder o modificar lo que no les pertenece. En el mundo cripto el problema es el inverso: la soberanía total viene con una responsabilidad que casi nadie puede cargar solo, porque una clave perdida o una firma comprometida son irreversibles. Lineal Qorum propone un camino intermedio: **que el control de los activos nunca dependa de una sola persona, de un solo servidor ni de una sola institución**.
 
