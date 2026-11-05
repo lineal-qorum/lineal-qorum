@@ -10,6 +10,43 @@ Esta obra se encuentra protegida por la Ley N° 17.336 sobre Propiedad Intelectu
 
 ---
 
+## Prólogo
+
+Lineal Qorum Finternet es un core financiero cuyo propósito es **proteger la soberanía de los activos digitales de las personas**.
+
+Hoy el acceso al dinero y a la identidad depende de intermediarios que pueden congelar, perder o modificar lo que no les pertenece. En el mundo cripto el problema es el inverso: la soberanía total viene con una responsabilidad que casi nadie puede cargar solo, porque una clave perdida o una firma comprometida son irreversibles. Lineal Qorum propone un camino intermedio: **que el control de los activos nunca dependa de una sola persona, de un solo servidor ni de una sola institución**.
+
+### Principios de diseño
+
+1. **Nadie decide solo.** Toda acción administrativa pasa por un quórum tripartito de máquinas, instituciones y humanos. Ninguna capa puede actuar sin las otras, y ningún firmante individual puede mover fondos, cambiar reglas ni alterar registros.
+
+2. **El dinero de las personas es de las personas.** Las cuentas personales de los ciudadanos dentro de un banco institucional solo puede moverlas su dueño. Ni la directiva ni el quórum de la institución tienen acceso a ellas.
+
+3. **Cumplimiento sin encierro.** La stablecoin verifica identidad (KYC) en la entrada, cuando se acuña, y circula libremente después. Los bloqueos son reactivos, los decide un quórum y no un administrador, y la recuperación de fondos solo procede desde cuentas bloqueadas, con razón obligatoria y registro público e inmutable.
+
+4. **Transparencia verificable.** Cada emisión, quema y recuperación de fondos queda registrada on-chain. Quien confía en el sistema puede auditarlo sin pedir permiso.
+
+5. **Identidad que no se compra ni se traspasa.** La identidad y la reputación de cada persona viven en un NFT soulbound ligado a su cuenta, y no se pueden transferir ni vender.
+
+6. **Recuperación sin puntos únicos de falla.** Si los firmantes pierden el acceso, el sistema se puede recuperar mediante pruebas de conocimiento cero (ZK), con un retraso obligatorio de seguridad. No existe una clave maestra de emergencia.
+
+7. **Usabilidad sin sacrificar soberanía.** Gracias a las cuentas inteligentes (ERC-4337) y los paymasters, las personas operan sin necesidad de poseer gas ni de gestionar claves técnicas, y mantienen el control de sus cuentas.
+
+### Qué ofrece el protocolo
+
+- **Gobernanza** multifirma tripartita, con recuperación basada en ZK.
+- **Kernel** como registro central de instituciones, coins válidas, contratos de ciudadanos, y de los dominios y apps autorizados por institución.
+- **Economía:** stablecoin regulada respaldada 1:1 por moneda FIAT, bancos institucionales con subcuentas, liquidez con política de conservación (LCL), DEX, rondas de capital con vesting y distribución de ingresos.
+- **Instituciones** con su propio banco, identidad de ciudadanos y licitaciones tokenizadas.
+- **Participación:** hitos validados por votación de los ciudadanos, y un tablero social on-chain.
+
+### A quién se dirige
+
+Este documento está pensado para equipos técnicos que integran o auditan el protocolo, para instituciones que quieren operar sobre él y para reguladores que necesitan entender cómo se concilian la protección de los activos de las personas y el cumplimiento normativo.
+
+> [!NOTE]
+> Esta documentación describe el diseño y las responsabilidades de cada contrato. No sustituye una auditoría de seguridad ni una validación legal y regulatoria en cada jurisdicción donde se opere.
+
 ## Arquitectura General
 
 ```mermaid
